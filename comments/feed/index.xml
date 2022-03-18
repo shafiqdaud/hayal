@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for Hayal Communication	</title>
+	<atom:link href="/https://shafiqdaud.github.io/web/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://shafiqdaud.github.io/web</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Fri, 18 Mar 2022 11:25:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
+	<item>
+		<title>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>/https://shafiqdaud.github.io/web/2022/03/18/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Fri, 18 Mar 2022 11:22:44 +0000</pubDate>
+		<guid isPermaLink="false">/https://shafiqdaud.github.io/web/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Travel Tips for South Africa by cristy		</title>
+		<link>/https://shafiqdaud.github.io/web/2018/10/12/travel-tips-for-south-africa/#comment-3</link>
+
+		<dc:creator><![CDATA[cristy]]></dc:creator>
+		<pubDate>Wed, 17 Oct 2018 13:21:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.demos.machothemes.com/antreas-pro/?p=58#comment-3</guid>
+
+					<description><![CDATA[Proin iaculis, dolor eget consectetur pharetra, dolor massa viverra sapien, nec iaculis turpis lorem eget augue. In eget tempor dui. Phasellus sit amet elementum orci.]]></description>
+			<content:encoded><![CDATA[<p>Proin iaculis, dolor eget consectetur pharetra, dolor massa viverra sapien, nec iaculis turpis lorem eget augue. In eget tempor dui. Phasellus sit amet elementum orci.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Qualm Inspiration for Everybody by A WordPress Commenter		</title>
+		<link>/https://shafiqdaud.github.io/web/2018/10/12/hello-world-2/#comment-2</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Fri, 12 Oct 2018 09:16:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.demos.machothemes.com/antreas-pro/?p=1#comment-2</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

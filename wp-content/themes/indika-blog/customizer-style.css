@@ -1,0 +1,6 @@
+/*
+* Custom Css for backend 
+*/
+#accordion-panel-header_top_panel {
+  display: none !important;
+}

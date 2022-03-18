@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-10 17:29+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: functions.php:30
+msgctxt "Lota font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:36
+msgctxt "Marck Script font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:72 functions.php:110
+msgid "Read More"
+msgstr ""
+
+#: functions.php:73
+msgid "Hi ! I am"
+msgstr ""
+
+#: functions.php:77
+msgid "Recent New More Stories"
+msgstr ""
+
+#: functions.php:78
+msgid "Collect Memories!"
+msgstr ""
+
+#: functions.php:90
+msgid " Featured Posts"
+msgstr ""
+
+#: functions.php:91
+msgid ""
+"I focus best in a place that has bright natural lightI focus best in a place "
+"that has bright natural light I focus best in a place that has bright "
+"natural light"
+msgstr ""
+
+#: functions.php:118
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
